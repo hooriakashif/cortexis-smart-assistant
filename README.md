@@ -3,7 +3,7 @@
 **AI-Powered Chatbot for Business FAQs (Project 2 - Cortexis Solution Hub Internship)**
 
 ## 🎯 Overview
-This is a **24/7 AI Virtual Assistant** designed to answer customer questions about your business instantly. Upload FAQs via a TXT file, chat naturally, and let AI handle support—no humans required! Built during my unpaid remote internship at Cortexis Solution Hub Pvt Ltd (Oct 6 - Nov 6, 2025). Intern ID: **CSH-INT-25104**.
+This is a **24/7 AI Virtual Assistant** designed to answer customer questions about your business instantly. Upload FAQs via a TXT file, chat naturally, and let AI handle support—no humans required! Built during my unpaid remote internship at Cortexis Solution Hub Pvt Ltd (Oct 6 - Nov 6, 2025). Intern ID: **CSH-INT-25-6104**.
 
 ## 🚀 Features
 - 📤 **Upload Knowledge Base:** Supports TXT files with Q&A format (e.g., "Q: Hours? A: 9AM-6PM").
